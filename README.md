@@ -81,11 +81,5 @@ https://mail.google.com/mail/u/?authuser=user@gmail.com">hizmi.abdelhakim@gmail.
 
 ###
 
-<p align="left">Hello World!!</p>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
 ###
