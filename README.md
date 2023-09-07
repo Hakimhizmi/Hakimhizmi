@@ -32,8 +32,7 @@
 
 ###
 
-<p align="left">I'm Abdelhakim Hizmi from morocco<br>- 🔭 I’m a Full Stack Web Development<br>- 📚 I'm currently learning NextJs<br>- ⚡ In my free time , I like games<br>-  🌏 Visit to my <a href="https://hakimhizmi.netlify.app/">Portfolio</a><br>-  📃 Look at my <a href="https://drive.google.com/file/d/17OK9iG12477xiuGtnuDrNaIXcq4a0PGY/view?pli=1">Resume</a><br>-  📫 How to reach me <a href="54
-https://mail.google.com/mail/u/?authuser=user@gmail.com">hizmi.abdelhakim@gmail.com</a></p>
+<p align="left">I'm Abdelhakim Hizmi from morocco<br>- 🔭 I’m a Full Stack Web Development<br>- 📚 I'm currently learning NextJs<br>- ⚡ In my free time , I like games<br>-  🌏 Visit to my <a href="https://hakimhizmi.netlify.app/">Portfolio</a><br>-  📃 Look at my <a href="https://drive.google.com/file/d/17OK9iG12477xiuGtnuDrNaIXcq4a0PGY/view?pli=1">Resume</a><br>-  📫 How to reach me <a href="https://mail.google.com/mail/u/?authuser=user@gmail.com">hizmi.abdelhakim@gmail.com</a></p>
 
 ###
 
